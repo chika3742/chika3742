@@ -4,7 +4,7 @@
 - 📫 How to reach me: [X - @chikavoid](https://x.com/chikavoid)
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=flutter,dart,nuxt,vue,vuetify,html,css,sass,ts,nodejs,cs,swift,kotlin,python,githubactions,firebase,cloudflare,gcp,aws,vim" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=flutter,dart,nuxt,vue,vuetify,html,css,sass,ts,nodejs,cs,swift,kotlin,python,githubactions,firebase,cloudflare,gcp,aws,vim,postman,regex,git,github,idea,bash,md" />
 
 <!--
 **chika3742/chika3742** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
